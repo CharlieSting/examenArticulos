@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="A.Electronics.MainPage"
+            
+              xmlns:local="clr-namespace:A.Electronics.ViewModel"
+             Title="Charlies Exam2">
+
+    <ContentPage.BindingContext>
+        <local:VmArticulos></local:VmArticulos>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Beige">
+            <Label Text="Articulos Electronicos" FontSize="50" TextColor="Black"  ></Label>
+
+            <Entry Text="{Binding Codigo}" Keyboard="Text" Placeholder="Ingrese codigo del articulo"   Background="white"/>
+            <Entry Text="{Binding Nombre}" Keyboard="Text" Placeholder="Ingrese nombre del articulo" />
+            <Entry Text="{Binding Modelo}" Keyboard="Text" Placeholder="Modelo"/>
+            <Entry Text="{Binding Marca}" Keyboard="Text" Placeholder="Marca" />
+            <Entry Text="{Binding Precio}" Keyboard="Numeric" Placeholder="Precio" />
+
+
+
+            <Button Text="Guardar" Command="{Binding Guardar}" BackgroundColor="White" ></Button>
+            <Button Text="Buscar" Command="{Binding Buscar}" BackgroundColor="White"></Button>
+           
+
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

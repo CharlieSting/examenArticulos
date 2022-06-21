@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\bin\Debug\netstandard2.0\A.Electronics.deps.json
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\bin\Debug\netstandard2.0\A.Electronics.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\bin\Debug\netstandard2.0\A.Electronics.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\refint\A.Electronics.dll
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\A.Electronics.pdb
+C:\Users\Carlos\Desktop\PROGRAMACION 2\A.Electronics\A.Electronics\A.Electronics\obj\Debug\netstandard2.0\ref\A.Electronics.dll
